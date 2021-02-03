@@ -1,4 +1,4 @@
-baseURL = "http://examplesite.org/"
+baseURL = "https://getrilis.netlify.app/"
 disqusShortname = ""
 googleAnalytics = ""
 languageCode = "en-us"
